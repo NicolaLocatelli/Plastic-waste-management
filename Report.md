@@ -21,7 +21,7 @@ Authors: Daichi Ryo, Nicola Locatelli.
 5. [Discussion](#5-discussion)  
 6. [Conclusions](#6-conclusions)  
 7. [References](#7-references)  
-8. [Appendix](#8-appendix)
+
 
 ## 1 Introduction
 
