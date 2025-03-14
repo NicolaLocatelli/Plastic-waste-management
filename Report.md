@@ -191,6 +191,49 @@ This bar chart highlights the Pearson correlation coefficient (r) between GDP an
 
 
 ## 7. References
+[1] Hopewell, J., Dvorak, R., & Kosior, E. (2009). "Plastics recycling: Challenges and opportunities." Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1526), 2115-2126.  https://doi.org/10.1098/rstb.2008.0311
+[2] Grossman, G., & Krueger, A. (1995). "Economic growth and the environment." Quarterly Journal of Economics, 110(2), 353-377.https://doi.org/10.2307/2118443
+[3] Kinnaman, T. (2014). "The economics of waste management." Journal of Environmental Economics and Management, 68(2), 273-289. https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?params=/context/fac_journ/article/1713/&path_info=WM7385.pdf 
+[4] Ferronato, M., & Torretta, V. (2019). "Waste mismanagement in developing countries: A review of global issues." International Journal of Environmental Research and Public Health, 16(6), 1060.http://dx.doi.org/10.3390/ijerph16061060
+[5] Cordier, M., Uehara, T., Baztan, J., Jorgensen, B., and Yan, H. (2021). Plastic pollution and economic growth: The influence of corruption and lack of education. Ecol. Econ. 182, 106930.
+; https://doi.org/10.1016/j.ecolecon.2020.106930
+[6] Soares, J., Miguel, I., Venancio, C., Lopes, I., and Oliveira, M. (2021). On the path to minimize plastic pollution: The perceived importance of education and knowledge dissemination strategies. Mar. Pollut. Bull. 171, 112890. https://doi.org/10.1016/j.marpolbul.2021.112890
+[7] Vicente-Molina, M. A., Fernández-Sáinz, A., and Izagirre-Olaizola, J. (2013). Environmental knowledge and other variables affecting pro-environmental behaviour: Comparison of University students from emerging and advanced countries. J. Clean. Prod. 61, 130–138.  https://doi.org/10.1016/j.jclepro.2013.05.015
+
+
+(2024). In: The ocean cleanup. URL: https://theoceancleanup.com/updates/global-plastics-treaty-why-legacy-plastic-cleanup-is-essential/ (plastic background)
+
+(2018). In: Packaging Europe. URL: https://packagingeurope.com/plastic-packaging-time-to-pack-it-in/4595.article (packaging)
+
+(2020). In: CBC. URL: https://www.cbc.ca/news/science/bottle-recycling-1.5416614 (bottles)
+
+(2022). In: UNESCO. URL: https://oceanliteracy.unesco.org/plastic-pollution-ocean/ (ocean pollution)
+
+(2020). In: PEW. URL: https://www.pewtrusts.org/en/research-and-analysis/articles/2020/07/23/science-study-shows-that-nearly-80-percent-of-the-annual-plastic-flow-into-the-environment (coast pollution)
+
+(n. D.). In: Everyday Plastic. URL: https://www.everydayplastic.org/surveyold (headlines)
+
+(n.D.). In: Freepik. URL: https://www.freepik.com/free-vector/clean-black-world-map-silhouette-style-template-design_68624446.htm#fromView=search&page=4&position=48&uuid=ffbef720-8e5f-44f0-b736-9c1d746893f8&query=world+map+ (worldmap)
+ 
+Sources:
+ 
+(2023). Environment education: A first step in solving plastic pollution. In: frontiers. URL: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1130463/full
+
+Islam, S. (2023). Sustainable Development Data. In: kaggle. URL: https://www.kaggle.com/datasets/sazidthe1/sustainable-development-report?select=sdg_index_2000-2022.csv
+
+Momeni, M. (2023). Plastic pollution. In: kaggle. URL: https://www.kaggle.com/datasets/imtkaggleteam/plastic-pollution?resource=download
+
+(n.D.). Plastic pollution education: How awareness changes behaviours. In: TontoTon. URL: https://tontoton.com/plastic-pollution-education-how-awareness-changes-behaviors/
+ 
+(n.D.). Plastikmüll und seine Folgen. In: Nabu. URL: https://www.nabu.de/natur-und-landschaft/meere/muellkippe-meer/muellkippemeer.html
+ 
+(n.D.) The toxic impacts of plastic across it’s lifecycle. In: Center of International Environmental Law. URL: https://www.ciel.org/the-toxic-impacts-of-plastic-across-its-lifecycle/#:~:text=Using%20plastic%20consumer%20goods%20exposes,of%20animals%20and%20human%20tissue.
+ 
+Tas, O. C. (2021). World GDP. In: kaggle. URL: https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths?resource=download
+
+Use of AI:
+
+For our project work we have made use of AI to help with data analysis issues, to give us ideas for the project outline as well as to help with phrasing.
 
 
 
