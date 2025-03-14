@@ -28,7 +28,7 @@ Authors: Daichi Ryo, Nicola Locatelli.
 
 Plastic pollution is one of the biggest environmental crises of our time. Every year, over 400 million tonnes of plastic waste are produced worldwide, yet only 9% of it gets recycled (Geyer et al., 2017). Mismanaged plastic waste ends up polluting oceans, harming wildlife, and contributing to climate change (Jambeck et al., 2015).
 
-In this study, we set out to explore the relationship between societal factors and plastic waste management by addressing the question: “How do different parts of society affect plastic waste management and where can we see correlations for these tendencies?” The motivation behind this research stems from the observation that countries with higher economic outputs often have more resources to invest in environmental infrastructure; however, the effectiveness of these investments may also depend on the population’s education level and awareness regarding sustainability practices.
+In this study, we aim to explore the relationship between societal factors and plastic waste management by addressing the question: “How do different parts of society affect plastic waste management and where can we see correlations for these tendencies?” The motivation behind this research stems from the observation that countries with higher economic outputs often have more resources to invest in environmental infrastructure; however, the effectiveness of these investments may also depend on the population’s education level and awareness regarding sustainability practices.
 
 ### 1.2 Objectives
 
