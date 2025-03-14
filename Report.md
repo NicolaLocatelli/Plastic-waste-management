@@ -48,7 +48,7 @@ How do different parts of society affect plastic waste management and where can 
 
 • How does GDP growth influence plastic waste management policies?
 
-• Which regions show the most effective sustainability strategies, and what can we learn from them?
+• Which regions show the most effective sustainability strategies?
 
 • Is there a link between higher education levels and better waste management?
            
