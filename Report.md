@@ -24,25 +24,24 @@ Authors: Daichi Ryo, Nicola Locatelli.
 
 ## 1. Introduction
 
-Background:
+1.1 Background:
 Plastic pollution is one of the biggest environmental crises of our time. Every year, over 400 million tonnes of plastic waste are produced worldwide, yet only 9% of it gets recycled (Geyer et al., 2017). Mismanaged plastic waste ends up polluting oceans, harming wildlife, and contributing to climate change (Jambeck et al., 2015).
 
 In this study, we set out to explore the relationship between societal factors and plastic waste management by addressing the question: “How do different parts of society affect plastic waste management and where can we see correlations for these tendencies?” The motivation behind this research stems from the observation that countries with higher economic outputs often have more resources to invest in environmental infrastructure; however, the effectiveness of these investments may also depend on the population’s education level and awareness regarding sustainability practices.
 
-This study investigates whether GDP alone can be considered as a strong predictor of plastic waste management efficiency or if perhaps education plays a more significant role, or if perhaps there could be an indirect correlation between GDP and better practice waste management practices through the influence of better education, that as we will see is fundamentally influenced by the economic context of its country. By examining global data on economic growth, education levels, and plastic waste trends, we aim to uncover the factors that truly drive sustainable waste management.
+1.2 Objectives
+This study investigates whether GDP alone can be considered as a strong predictor of plastic waste management efficiency or if perhaps education plays a more significant role. By examining global data on economic growth, education levels, and plastic waste trends, we aim to uncover the factors that truly drive sustainable waste management.
  
-Objectives
 This research focuses on four main objectives:
 1. To analyse to which extent a  higher GDP correlates with better plastic waste.
 2. To identify regional differences in how countries handle plastic waste.
 3. To assess the role of education in shaping waste management policies and behaviours.
 4. To determine whether education could be a key mediator between economic progress and sustainability.
  
-Research Question:
+1.3 Research Question:
 How do different parts of society affect plastic waste management and where can we see correlations for these tendencies?
 
- 
-Sub-questions include:
+ Sub-questions include:
 
 • How does GDP growth influence plastic waste management policies?
 
