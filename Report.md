@@ -1,5 +1,6 @@
 # Plastic waste management 
 Date: 2025-03-13
+
 Authors: Daichi Ryo, Nicola Locatelli.
 | Name | Specific Contribution in this Report |
 | ----------- | ----------- |
