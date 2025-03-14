@@ -13,14 +13,14 @@ Authors: Daichi Ryo, Nicola Locatelli.
 
 ## Table of Contents  
 
-1. [Introduction](#introduction)  
-2. [Theoretical Framework](#theoretical-framework)  
-3. [Methodology](#methodology)  
-4. [Findings](#findings)  
-5. [Discussion](#discussion)  
-6. [Conclusions](#conclusions)  
-7. [References](#references)  
-8. [Appendix](#appendix)
+1. [Introduction](#1-introduction)  
+2. [Theoretical Framework](#2-theoretical-framework)  
+3. [Methodology](#3-methodology)  
+4. [Findings](#4-findings)  
+5. [Discussion](#5-discussion)  
+6. [Conclusions](#6-conclusions)  
+7. [References](#7-references)  
+8. [Appendix](#8-appendix)
 
 ## 1 Introduction
 
