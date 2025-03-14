@@ -38,14 +38,20 @@ This research focuses on four main objectives:
 3. To assess the role of education in shaping waste management policies and behaviours.
 4. To determine whether education could be a key mediator between economic progress and sustainability.
  
-Research Question
+Research Question:
 How do different parts of society affect plastic waste management and where can we see correlations for these tendencies?
 
  
 Sub-questions include:
+
 • How does GDP growth influence plastic waste management policies?
+
 • Which regions show the most effective sustainability strategies, and what can we learn from them?
+
 • Is there a link between higher education levels and better waste management?
            
  
 By answering these questions, we aim to contribute to the broader discussion on sustainability and policy-making, offering insights that could shape future environmental strategies.
+
+
+
