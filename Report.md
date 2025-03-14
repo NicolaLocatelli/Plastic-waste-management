@@ -113,4 +113,87 @@ Lastly, data accuracy and completeness varied across different datasets. Some na
 ## 4 Findings
 
 
+In our analysis, we examined the correlation between GDP, education levels, and plastic waste management in different regions. First, we compared GDP trends with plastic waste management efficiency across multiple countries from each continent level into micro level. First, we started to analyze this relationship from a macro level by looking at the general situation of the whole world.
+
+
+1. Correlation Between GDP and Plastic Waste Management
+
+At the world level, with the elevation of GDP, it still remains problematic with plastic waste management. On the other hand, from the perspective of the primary continent level , high-GDP countries like the United States and China generate significant plastic waste, but their management practices vary widely.
+
+
+
+[*F:01]
+From the first set of data [*F:01], it can be seen that a significant rise in global GDP between 2000 and 2020. Simultaneously, the second dataset below indicates steady increases in all plastic waste management categories over the same period. On the whole, landfilled and mismanaged waste is still the dominant method of disposal, and recycling rates remain relatively low. The data suggests that it has not led to proportional improvements in sustainable plastic waste management from the perspective of worldwide view with the development of GDP.
+This disparity raises important questions regarding whether wealthier economies are prioritizing sustainable waste management practices or if economic growth is merely amplifying waste-related issues. To explore this further, a more detailed analysis at the regional or national level will be conducted. 
+
+
+[*F:02]
+Next step, we are going to analyze from the perspective of the primary region. Firstly, between 2000 and 2014, Asian countries experienced steady GDP growth, reflecting strong and consistent economic expansion. However, after 2014, economic trends became less stable, with fluctuations and a gradual downturn due to global challenges such as economic slowdowns and the COVID-19 pandemic in 2020.
+In terms of waste management trends, it evolved alongside these economic changes. During the period of steady growth up to 2014, litter and mismanaged waste decreased, suggesting that as nations became more prosperous, they invested in waste management infrastructure and policies. Over time, reliance on landfills has declined, while recycling and incineration practices have expanded. This outcome reflects a growing commitment to sustainability in waste management across Asian countries.
+
+[*F:03]
+Secondly, in the American continent, those countries have experienced a drastic surge in GDP. In contrast to Asian countries, improvements in plastic waste management have been characterized by a consistently high reliance on landfills, which has remained largely unchanged. However, recycling efforts have expanded. Here, it’s important to note that economic growth alone has not resolved the issue of mismanaged waste unlike our expectation we discussed before in the Americas. 
+
+
+[*F:04]
+
+I also want to add the interesting findings that we discovered that the USA is the  country showing high GDP but poor plastic waste management practices and development. Sadly, this is also as we will talk about in the limitations part. We couldn't really add this into our previous presentation which also included an education data set because we couldn't find a fitting correlation and a fitting data for education in the USA.
+
+[*F:05]
+Thirdly, Europe’s GDP grew steadily until 2008 but fluctuated following the financial crisis. During this period, landfill use declined significantly, while recycling and incineration increased. Unlike the previous regions discussed, Europe demonstrated notable improvements in plastic waste management despite economic fluctuations. Moreover, as the economy recovered, sustainability efforts resumed.
+This trend underscores the link between economic prosperity and environmental initiatives while highlighting the disruptions caused by financial crises. Striking a balance between economic resilience and long-term sustainability is crucial for maintaining progress in waste management.
+
+
+
+
+
+
+
+
+
+
+
+2. Correlation Between Education and Plastic Waste Management
+
+Next, we examined the relationship between GDP trends and education levels across three primary regions. In a nutshell,  it is apparent  that countries with high education levels tend to have better waste management systems from our data set.Public awareness and environmental education campaigns have led to increased recycling rates and waste reduction in several regions. 
+
+[*F:06]
+Firstly, in terms of education levels in Asia, these countries vary significantly across regions. East and Southeast Asia generally demonstrate higher and more stable education scores, reflecting strong educational systems. In contrast, South Asia shows lower median scores and greater variation, indicating inconsistencies in educational access and quality.
+These differences in education levels appear to correlate with waste management practices. As you can see from the graph below, Countries with higher education scores, such as those in East Asia, tend to have more advanced waste management systems, including higher recycling rates and stricter regulations. Meanwhile, regions with lower education levels, such as parts of South Asia, often face challenges in plastic waste management due to limited recycling infrastructure and higher rates of improperly disposed waste.
+
+
+[*F:06]
+Next, education scores in the Americas show a wider distribution compared to Asia, as indicated by box and violin plots. Canada consistently ranks high, with scores comparable to Northern Europe, while countries such as Brazil, Mexico, and Colombia exhibit lower medians and greater variability.
+Over a 20-year period, some nations, including Chile and Argentina, have shown gradual improvements in education scores. From an environmental perspective, the correlation between higher education levels and improved plastic waste management is more pronounced in the Americas than in Europe. This is due to the broader range of both education scores and waste management performance. For example, Canada combines high education scores with a well-developed recycling infrastructure and strong waste management policies.
+
+
+[*F:08]
+Finally, an analysis of education scores across various European countries reveals that Denmark, Finland, Germany, and Norway consistently rank among the highest, with scores typically above 94. The small range in their box plots indicates both high performance and consistent academic results.
+From 2000 to 2020, the yearly score distribution remained stable or showed gradual improvement.
+When comparing these education scores with plastic waste management data (analyzed separately), a pattern emerges: countries with strong education systems also tend to perform well in plastic recycling, waste reduction, and policy enforcement. While this suggests a positive relationship between education and effective waste management, it does not imply direct causation.
+
+
+
+[*F:09]
+This bar chart highlights the Pearson correlation coefficient (r) between GDP and quality education for individual countries over two decades. We see values ranging from strongly positive to slightly negative:
+
+ ● High Positive Correlations: In certain countries, a rising GDP is closely mirrored by improvements in education. This suggests effective policy channels that convert economic growth into tangible investments in schooling.
+ ● Low or Negative Correlations: Some nations show minimal or even inverse relationships, indicating that economic gains are not always reinvested in the education sector—or that other structural factors (like inequality or governance) overshadow any direct GDP-to-education linkage. These findings reinforce that GDP alone is not a universal driver of better education.
+
+## 5. Discussion
+
+
+
+
+## 6. Conclusions
+
+
+
+
+## 7. References
+
+
+
+
+
 
