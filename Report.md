@@ -206,10 +206,35 @@ This bar chart highlights the Pearson correlation coefficient (r) between GDP an
 
 ## 5. Discussion
 
+Interpretation of Findings:
+
+Our analysis of plastic waste management in relation to GDP and education yielded mixed results, suggesting that economic growth alone is not a strong predictor of improved waste management. While some high-GDP countries showed better waste management practices, others continued to struggle with mismanagement despite economic expansion. This indicates that wealth alone does not guarantee effective plastic policies; rather other qualitative factors like government regulations, infrastructure, and societal awareness also play crucial roles.
+
+GDP and Plastic Waste Management:
+
+Economic growth did not always correlate directly with better plastic waste management. Although some high-income nations such as Germany, Sweden and Japan demonstrated strong waste management systems,  others like the USA, France and the UK, failed to implement effective strategies, highlighting the importance of additional factors such as regulatory frameworks and public awareness. The findings suggest that financial resources alone are insufficient in ensuring proper waste disposal and recycling; instead, a comprehensive approach that includes policy enforcement and infrastructural support is necessary.
+
+Education and Plastic Waste Management:
+
+A stronger correlation emerged between education levels and waste management efficiency. Regions with higher education scores, such as Europe, tended to have on average  lower rates of mismanaged plastic waste and higher recycling rates. Similarly, areas with lower education levels often struggled with persistent waste mismanagement despite economic growth. This pattern suggests that education plays a more significant role in fostering environmental awareness and promoting the implementation of effective waste management policies.
+
+Regional Variations:
+
+Significant regional variations were observed in plastic waste management practices. In Europe, countries with high education rates implemented effective policies, leading to increased recycling and reduced dependence on landfills. In contrast, Asia, including countries such as China and India, experienced substantial economic growth, yet waste management outcomes varied widely. While some nations made progress, others continued to face high mismanagement rates. In Oceania and the Americas, GDP growth was evident, but improvements in waste management remained inconsistent, further emphasizing that factors beyond GDP and education influence waste practices. The Middle East, North Africa (MENA), and Sub-Saharan Africa generally exhibited lower education levels, which correlated with higher mismanagement rates, reinforcing the notion that education might be a key driver in shaping sustainable waste management policies.
+
+Implications of the Findings:
+
+These findings challenge the assumption that economic prosperity alone leads to better environmental practices. Instead, even though more factors evidently influence plastic waste management practices, our findings still emphasize more the role of education as both a stronger link with better plastic waste developments and also as a mediator between economic growth and waste management; This means that policy interventions are necessary to ensure that economic resources are effectively allocated toward education sustainable waste management solutions, because knowing about the problem and knowing how to deal with it in a sustainable way are already big steps into better practices. Considering all the information that we were able to gather and analyze, a global shift in waste management strategies is required, prioritizing education, awareness, and policy enforcement rather than relying solely on financial growth as a determinant of environmental responsibility.
+
+
 
 
 
 ## 6. Conclusions
+
+Our analysis revealed that GDP alone does not strongly correlate with effective plastic waste management. Despite higher economic resources, some wealthy nations continue to struggle with inefficient policies, due to a lack of public awareness, and ineffective recycling systems. This suggests that economic growth alone is not a reliable indicator of sustainable waste management practices. On the other hand, education appears to be a key mediator in improving plastic waste management. Countries with higher education levels generally demonstrate better waste management behaviors, likely due to increased awareness of environmental issues and stronger public participation in recycling initiatives. Since education is a low-cost and scalable approach, it presents a viable strategy for fostering sustainable waste practices globally.
+
+Looking ahead, future research should explore qualitative aspects such as, how policy enforcement and cultural attitudes shape waste management. More importantly, countries must learn from successful case studies and apply these lessons to create sustainable, long term solutions for plastic waste. The challenge is big, but the solutions are within reach if we prioritise education, innovation, and investing in the right way by not forgetting to keep in consideration societal and cultural differences across the world.
 
 
 
