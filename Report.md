@@ -1,4 +1,4 @@
-## Plastic waste management 
+# Plastic waste management 
 Date: 2025-03-13
 Authors: Daichi Ryo, Nicola Locatelli.
 | Name | Specific Contribution in this Report |
@@ -22,7 +22,7 @@ Authors: Daichi Ryo, Nicola Locatelli.
 7. [References](#references)  
 8. [Appendix](#appendix)
 
-## 1. Introduction
+## 1 Introduction
 
 ### 1.1 Background:
 
@@ -55,5 +55,6 @@ How do different parts of society affect plastic waste management and where can 
  
 By answering these questions, we aim to contribute to the broader discussion on sustainability and policy-making, offering insights that could shape future environmental strategies.
 
+## 2 Theoretical Framework 
 
 
