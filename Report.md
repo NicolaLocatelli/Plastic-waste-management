@@ -27,7 +27,7 @@ Authors: Daichi Ryo, Nicola Locatelli.
 
 ### 1.1 Background:
 
-Plastic pollution is one of the biggest environmental crises of our time. Every year, over 400 million tonnes of plastic waste are produced worldwide, yet only 9% of it gets recycled (Geyer et al., 2017). Mismanaged plastic waste ends up polluting oceans, harming wildlife, and contributing to climate change (Jambeck et al., 2015).
+Plastic pollution is one of the biggest environmental crises of our time. Every year, over 400 million tonnes of plastic waste are produced worldwide, yet only 9% of it gets recycled [[3](#ref3)] . Mismanaged plastic waste ends up polluting oceans, harming wildlife, and contributing to climate change[[4](#ref4)].
 
 In this study, we aim to explore the relationship between societal factors and plastic waste management by addressing the question: “How do different parts of society affect plastic waste management and where can we see correlations for these tendencies?” The motivation behind this research stems from the observation that countries with higher economic outputs often have more resources to invest in environmental infrastructure; however, the effectiveness of these investments may also depend on the population’s education level and awareness regarding sustainability practices.
 
@@ -244,9 +244,11 @@ Looking ahead, future research should explore qualitative aspects such as, how p
 
 <a id="ref2"></a>[2] Grossman, G., & Krueger, A. (1995). "Economic growth and the environment." Quarterly Journal of Economics, 110(2), 353-377.https://doi.org/10.2307/2118443
 
-[3] Kinnaman, T. (2014). "The economics of waste management." Journal of Environmental Economics and Management, 68(2), 273-289. https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?params=/context/fac_journ/article/1713/&path_info=WM7385.pdf 
+[<a id="ref3"></a>[3] Jambeck, J. R., Geyer, R., Wilcox, C., Siegler, T. R., Perryman, M., Andrady, A., Narayan, R., & Law, K. L. (2015). Plastic waste inputs from land into the ocean. Science, 347(6223), 768-771. DOI: 10.1126/science.1260352
 
-[4] Ferronato, M., & Torretta, V. (2019). "Waste mismanagement in developing countries: A review of global issues." International Journal of Environmental Research and Public Health, 16(6), 1060.http://dx.doi.org/10.3390/ijerph16061060
+[<a id="ref4"></a>[4] Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. Science Advances, 3(7), e1700782. DOI: 10.1126/sciadv.1700782
+
+
 
 <a id="ref5"></a>[5] Cordier, M., Uehara, T., Baztan, J., Jorgensen, B., and Yan, H. (2021). Plastic pollution and economic growth: The influence of corruption and lack of education. Ecol. Econ. 182, 106930.
 ; https://doi.org/10.1016/j.ecolecon.2020.106930
@@ -254,6 +256,10 @@ Looking ahead, future research should explore qualitative aspects such as, how p
 <a id="ref6"></a>[6] Soares, J., Miguel, I., Venancio, C., Lopes, I., and Oliveira, M. (2021). On the path to minimize plastic pollution: The perceived importance of education and knowledge dissemination strategies. Mar. Pollut. Bull. 171, 112890. https://doi.org/10.1016/j.marpolbul.2021.112890
 
 <a id="ref7"></a>[7] Vicente-Molina, M. A., Fernández-Sáinz, A., and Izagirre-Olaizola, J. (2013). Environmental knowledge and other variables affecting pro-environmental behaviour: Comparison of University students from emerging and advanced countries. J. Clean. Prod. 61, 130–138.  https://doi.org/10.1016/j.jclepro.2013.05.015
+
+Kinnaman, T. (2014). "The economics of waste management." Journal of Environmental Economics and Management, 68(2), 273-289. https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?params=/context/fac_journ/article/1713/&path_info=WM7385.pdf 
+
+Ferronato, M., & Torretta, V. (2019). "Waste mismanagement in developing countries: A review of global issues." International Journal of Environmental Research and Public Health, 16(6), 1060.http://dx.doi.org/10.3390/ijerph16061060
 
 
 (2024). In: The ocean cleanup. URL: https://theoceancleanup.com/updates/global-plastics-treaty-why-legacy-plastic-cleanup-is-essential/ (plastic background)
