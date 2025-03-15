@@ -241,12 +241,18 @@ Looking ahead, future research should explore qualitative aspects such as, how p
 
 ## 7. References
 <a id="ref1"></a>[1] Hopewell, J., Dvorak, R., & Kosior, E. (2009). "Plastics recycling: Challenges and opportunities." Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1526), 2115-2126.  https://doi.org/10.1098/rstb.2008.0311
+
 <a id="ref2"></a>[2] Grossman, G., & Krueger, A. (1995). "Economic growth and the environment." Quarterly Journal of Economics, 110(2), 353-377.https://doi.org/10.2307/2118443
+
 [3] Kinnaman, T. (2014). "The economics of waste management." Journal of Environmental Economics and Management, 68(2), 273-289. https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?params=/context/fac_journ/article/1713/&path_info=WM7385.pdf 
+
 [4] Ferronato, M., & Torretta, V. (2019). "Waste mismanagement in developing countries: A review of global issues." International Journal of Environmental Research and Public Health, 16(6), 1060.http://dx.doi.org/10.3390/ijerph16061060
+
 <a id="ref5"></a>[5] Cordier, M., Uehara, T., Baztan, J., Jorgensen, B., and Yan, H. (2021). Plastic pollution and economic growth: The influence of corruption and lack of education. Ecol. Econ. 182, 106930.
 ; https://doi.org/10.1016/j.ecolecon.2020.106930
+
 <a id="ref6"></a>[6] Soares, J., Miguel, I., Venancio, C., Lopes, I., and Oliveira, M. (2021). On the path to minimize plastic pollution: The perceived importance of education and knowledge dissemination strategies. Mar. Pollut. Bull. 171, 112890. https://doi.org/10.1016/j.marpolbul.2021.112890
+
 <a id="ref7"></a>[7] Vicente-Molina, M. A., Fernández-Sáinz, A., and Izagirre-Olaizola, J. (2013). Environmental knowledge and other variables affecting pro-environmental behaviour: Comparison of University students from emerging and advanced countries. J. Clean. Prod. 61, 130–138.  https://doi.org/10.1016/j.jclepro.2013.05.015
 
 
