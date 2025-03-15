@@ -9,7 +9,7 @@ Authors: Daichi Ryo, Nicola Locatelli.
 | Nicola | Discussion and conclusion |
 | Daichi | Theoretical framework and findings |
 | Daichi, Nicola | Data preprocessing, visualization |
-| Daichi | References and appendix  |
+| Daichi | References  |
 
 
 ## Table of Contents  
