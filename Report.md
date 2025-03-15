@@ -257,9 +257,23 @@ Looking ahead, future research should explore qualitative aspects such as, how p
 
 <a id="ref7"></a>[7] Vicente-Molina, M. A., Fernández-Sáinz, A., and Izagirre-Olaizola, J. (2013). Environmental knowledge and other variables affecting pro-environmental behaviour: Comparison of University students from emerging and advanced countries. J. Clean. Prod. 61, 130–138.  https://doi.org/10.1016/j.jclepro.2013.05.015
 
-Kinnaman, T. (2014). "The economics of waste management." Journal of Environmental Economics and Management, 68(2), 273-289. https://digitalcommons.bucknell.edu/cgi/viewcontent.cgi?params=/context/fac_journ/article/1713/&path_info=WM7385.pdf 
 
-Ferronato, M., & Torretta, V. (2019). "Waste mismanagement in developing countries: A review of global issues." International Journal of Environmental Research and Public Health, 16(6), 1060.http://dx.doi.org/10.3390/ijerph16061060
+Ellen MacArthur Foundation. (2020). The New Plastics Economy: Rethinking the Future of Plastics. Retrieved from ellenmacarthurfoundation.org
+Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. Science Advances, 3(7), e1700782. DOI: 10.1126/sciadv.1700782
+Jambeck, J. R., Geyer, R., Wilcox, C., Siegler, T. R., Perryman, M., Andrady, A., Narayan, R., & Law, K. L. (2015). Plastic waste inputs from land into the ocean. Science, 347(6223), 768-771. DOI: 10.1126/science.1260352
+OECD. (2021). Global Plastics Outlook: Economic Drivers, Environmental Impacts, and Policy Options. Retrieved from oecd.org
+UNESCO. (2021). Education for Sustainable Development Goals: Learning Objectives. Retrieved from unesdoc.unesco.org
+World Bank. (2022). What a Waste 2.0: A Global Snapshot of Solid Waste Management to 2050. Retrieved from worldbank.org 
+
+European Commission. (2022). Recycling in Europe: Progress and Challenges. Retrieved from https://ec.europa.eu
+European Environment Agency. (2020). Recycling and Waste Management Trends in Europe. Retrieved from https://www.eea.europa.eu
+Environmental Protection Agency (EPA). (2022). Advancing Sustainable Materials Management: Facts and Figures.Retrieved from https://www.epa.gov
+Government of Rwanda. (2008). Ministerial Order N° 003/2008 on the Ban of Plastic Bags in Rwanda. Retrieved from https://rema.gov.rw
+Ministry of the Environment Japan. (2019). Japan’s Circular Economy and Waste Management Policies. Retrieved from https://www.env.go.jp
+OECD. (2021). Global Plastics Outlook: Economic Drivers, Environmental Impacts, and Policy Options. Retrieved from https://www.oecd.org
+UNEP. (2023). Plastic Waste and Policy Developments in the Middle East and North Africa. Retrieved from https://www.unep.org
+UNEP. (2021). Kigali’s Green City Initiative: A Model for Sustainable Urban Development in Africa. Retrieved from https://www.unep.org
+UNESCO. (2021). Education for Sustainable Development Goals: Learning Objectives. Retrieved from https://unesdoc.unesco.org 
 
 
 (2024). In: The ocean cleanup. URL: https://theoceancleanup.com/updates/global-plastics-treaty-why-legacy-plastic-cleanup-is-essential/ (plastic background)
@@ -295,9 +309,3 @@ Tas, O. C. (2021). World GDP. In: kaggle. URL: https://www.kaggle.com/datasets/z
 Use of AI:
 
 For our project work we have made use of AI to help with data analysis issues, to give us ideas for the project outline as well as to help with phrasing.
-
-
-
-
-
-
