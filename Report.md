@@ -249,7 +249,6 @@ Looking ahead, future research should explore qualitative aspects such as, how p
 
 <a id="ref4"></a>[4] Grossman, G., & Krueger, A. (1995). "Economic growth and the environment." Quarterly Journal of Economics, 110(2), 353-377.https://doi.org/10.2307/2118443
 
-
 <a id="ref5"></a>[5] Cordier, M., Uehara, T., Baztan, J., Jorgensen, B., and Yan, H. (2021). Plastic pollution and economic growth: The influence of corruption and lack of education. Ecol. Econ. 182, 106930.
 ; https://doi.org/10.1016/j.ecolecon.2020.106930
 
@@ -257,24 +256,31 @@ Looking ahead, future research should explore qualitative aspects such as, how p
 
 <a id="ref7"></a>[7] Vicente-Molina, M. A., Fernández-Sáinz, A., and Izagirre-Olaizola, J. (2013). Environmental knowledge and other variables affecting pro-environmental behaviour: Comparison of University students from emerging and advanced countries. J. Clean. Prod. 61, 130–138.  https://doi.org/10.1016/j.jclepro.2013.05.015
 
-
 Ellen MacArthur Foundation. (2020). The New Plastics Economy: Rethinking the Future of Plastics. Retrieved from ellenmacarthurfoundation.org
-Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. Science Advances, 3(7), e1700782. DOI: 10.1126/sciadv.1700782
-Jambeck, J. R., Geyer, R., Wilcox, C., Siegler, T. R., Perryman, M., Andrady, A., Narayan, R., & Law, K. L. (2015). Plastic waste inputs from land into the ocean. Science, 347(6223), 768-771. DOI: 10.1126/science.1260352
+
 OECD. (2021). Global Plastics Outlook: Economic Drivers, Environmental Impacts, and Policy Options. Retrieved from oecd.org
+
 UNESCO. (2021). Education for Sustainable Development Goals: Learning Objectives. Retrieved from unesdoc.unesco.org
+
 World Bank. (2022). What a Waste 2.0: A Global Snapshot of Solid Waste Management to 2050. Retrieved from worldbank.org 
 
 European Commission. (2022). Recycling in Europe: Progress and Challenges. Retrieved from https://ec.europa.eu
-European Environment Agency. (2020). Recycling and Waste Management Trends in Europe. Retrieved from https://www.eea.europa.eu
-Environmental Protection Agency (EPA). (2022). Advancing Sustainable Materials Management: Facts and Figures.Retrieved from https://www.epa.gov
-Government of Rwanda. (2008). Ministerial Order N° 003/2008 on the Ban of Plastic Bags in Rwanda. Retrieved from https://rema.gov.rw
-Ministry of the Environment Japan. (2019). Japan’s Circular Economy and Waste Management Policies. Retrieved from https://www.env.go.jp
-OECD. (2021). Global Plastics Outlook: Economic Drivers, Environmental Impacts, and Policy Options. Retrieved from https://www.oecd.org
-UNEP. (2023). Plastic Waste and Policy Developments in the Middle East and North Africa. Retrieved from https://www.unep.org
-UNEP. (2021). Kigali’s Green City Initiative: A Model for Sustainable Urban Development in Africa. Retrieved from https://www.unep.org
-UNESCO. (2021). Education for Sustainable Development Goals: Learning Objectives. Retrieved from https://unesdoc.unesco.org 
 
+European Environment Agency. (2020). Recycling and Waste Management Trends in Europe. Retrieved from https://www.eea.europa.eu
+
+Environmental Protection Agency (EPA). (2022). Advancing Sustainable Materials Management: Facts and Figures.Retrieved from https://www.epa.gov
+
+Government of Rwanda. (2008). Ministerial Order N° 003/2008 on the Ban of Plastic Bags in Rwanda. Retrieved from https://rema.gov.rw
+
+Ministry of the Environment Japan. (2019). Japan’s Circular Economy and Waste Management Policies. Retrieved from https://www.env.go.jp
+
+OECD. (2021). Global Plastics Outlook: Economic Drivers, Environmental Impacts, and Policy Options. Retrieved from https://www.oecd.org
+
+UNEP. (2023). Plastic Waste and Policy Developments in the Middle East and North Africa. Retrieved from https://www.unep.org
+
+UNEP. (2021). Kigali’s Green City Initiative: A Model for Sustainable Urban Development in Africa. Retrieved from https://www.unep.org
+
+UNESCO. (2021). Education for Sustainable Development Goals: Learning Objectives. Retrieved from https://unesdoc.unesco.org 
 
 (2024). In: The ocean cleanup. URL: https://theoceancleanup.com/updates/global-plastics-treaty-why-legacy-plastic-cleanup-is-essential/ (plastic background)
 
@@ -289,10 +295,8 @@ UNESCO. (2021). Education for Sustainable Development Goals: Learning Objectives
 (n. D.). In: Everyday Plastic. URL: https://www.everydayplastic.org/surveyold (headlines)
 
 (n.D.). In: Freepik. URL: https://www.freepik.com/free-vector/clean-black-world-map-silhouette-style-template-design_68624446.htm#fromView=search&page=4&position=48&uuid=ffbef720-8e5f-44f0-b736-9c1d746893f8&query=world+map+ (worldmap)
- 
-Sources:
- 
-(2023). Environment education: A first step in solving plastic pollution. In: frontiers. URL: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1130463/full
+
+ (2023). Environment education: A first step in solving plastic pollution. In: frontiers. URL: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1130463/full
 
 Islam, S. (2023). Sustainable Development Data. In: kaggle. URL: https://www.kaggle.com/datasets/sazidthe1/sustainable-development-report?select=sdg_index_2000-2022.csv
 
