@@ -27,7 +27,7 @@ Authors: Daichi Ryo, Nicola Locatelli.
 
 ### 1.1 Background:
 
-Plastic pollution is one of the biggest environmental crises of our time. Every year, over 400 million tonnes of plastic waste are produced worldwide, yet only 9% of it gets recycled [[3](#ref3)] . Mismanaged plastic waste ends up polluting oceans, harming wildlife, and contributing to climate change[[4](#ref4)].
+Plastic pollution is one of the biggest environmental crises of our time. Every year, over 400 million tonnes of plastic waste are produced worldwide, yet only 9% of it gets recycled [[1](#ref1)] . Mismanaged plastic waste ends up polluting oceans, harming wildlife, and contributing to climate change[[2](#ref2)].
 
 In this study, we aim to explore the relationship between societal factors and plastic waste management by addressing the question: “How do different parts of society affect plastic waste management and where can we see correlations for these tendencies?” The motivation behind this research stems from the observation that countries with higher economic outputs often have more resources to invest in environmental infrastructure; however, the effectiveness of these investments may also depend on the population’s education level and awareness regarding sustainability practices.
 
@@ -60,8 +60,8 @@ By answering these questions, we aim to contribute to the broader discussion on 
 
 In order to shed light on what aspects lead to the most influential and efficient way to approach waste management, we are going to start by defining key concepts and analyze the problem through the analysis of two already existing researches; This foundation is going to allow us to delve more clearly into the chosen aspects of GDP and education.
 
-Our first topic of interest  is related to the correlation of a country’s GDP and how their plastic waste management develops. Related to this concept, I would like to introduce the first relevant citation from the journal, which is titled”Plastics recycling: Challenges and opportunities”.  In this article, plastic waste management refers to the various methods used to reduce, reuse, and recycle plastic waste. Common strategies include mechanical and chemical recycling, incineration, and landfill disposal. Additionally, some countries have introduced strict regulations, such as plastic ban and circular economy policies, to combat the issue [[1](#ref1)].
-In summary, economic growth, often measured by Gross Domestic Product (GDP), has been widely studied in relation to environmental degradation. It is interesting to note that the Environmental Kuznets Curve (EKC) suggests that pollution tends to rise with economic growth in the early stages but eventually declines as a country becomes wealthier and invests in sustainable policies [[2](#ref2)].
+Our first topic of interest  is related to the correlation of a country’s GDP and how their plastic waste management develops. Related to this concept, I would like to introduce the first relevant citation from the journal, which is titled”Plastics recycling: Challenges and opportunities”.  In this article, plastic waste management refers to the various methods used to reduce, reuse, and recycle plastic waste. Common strategies include mechanical and chemical recycling, incineration, and landfill disposal. Additionally, some countries have introduced strict regulations, such as plastic ban and circular economy policies, to combat the issue [[3](#ref3)].
+In summary, economic growth, often measured by Gross Domestic Product (GDP), has been widely studied in relation to environmental degradation. It is interesting to note that the Environmental Kuznets Curve (EKC) suggests that pollution tends to rise with economic growth in the early stages but eventually declines as a country becomes wealthier and invests in sustainable policies [[4](#ref4)].
 
 The second question is about how important education is to improve and achieve better waste management. We hypothesized that Educating and Elevating our awareness of plastic pollution could lead to mitigate environmental challenges we are facing. 
 Recently, some related research was carried out, “Cordier et al. developed one worldwide socio-economic model to forecast the influence of lack of education plastic pollution by using the data of the World Bank and pointed out that the amount of inadequately managed plastic waste will decrease by 34% compared to the business-as-usual scenario (Cordier et al., 2021) [[5](#ref5)] ”. Soares et al. presented a study on the perceived importance of education and knowledge dissemination strategies on the mitigation of plastic pollution (Soares et al., 2021)[[6](#ref6)]. These articles is one of the few studies currently focusing on the pathway to minimize plastic pollution through environmental education” On top this statement, Vicente-Molina et al. (2013) concluded that a 1% increase in individual environmental knowledge leads to a 0.4% increase in environmental behavior among university students through model estimation."[[7](#ref7)]"
@@ -240,14 +240,14 @@ Looking ahead, future research should explore qualitative aspects such as, how p
 
 
 ## 7. References
-<a id="ref1"></a>[1] Hopewell, J., Dvorak, R., & Kosior, E. (2009). "Plastics recycling: Challenges and opportunities." Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1526), 2115-2126.  https://doi.org/10.1098/rstb.2008.0311
 
-<a id="ref2"></a>[2] Grossman, G., & Krueger, A. (1995). "Economic growth and the environment." Quarterly Journal of Economics, 110(2), 353-377.https://doi.org/10.2307/2118443
+[<a id="ref1"></a>[1] Jambeck, J. R., Geyer, R., Wilcox, C., Siegler, T. R., Perryman, M., Andrady, A., Narayan, R., & Law, K. L. (2015). Plastic waste inputs from land into the ocean. Science, 347(6223), 768-771. DOI: 10.1126/science.1260352
 
-[<a id="ref3"></a>[3] Jambeck, J. R., Geyer, R., Wilcox, C., Siegler, T. R., Perryman, M., Andrady, A., Narayan, R., & Law, K. L. (2015). Plastic waste inputs from land into the ocean. Science, 347(6223), 768-771. DOI: 10.1126/science.1260352
+[<a id="ref2"></a>[2] Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. Science Advances, 3(7), e1700782. DOI: 10.1126/sciadv.1700782
 
-[<a id="ref4"></a>[4] Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. Science Advances, 3(7), e1700782. DOI: 10.1126/sciadv.1700782
+<a id="ref3"></a>[3] Hopewell, J., Dvorak, R., & Kosior, E. (2009). "Plastics recycling: Challenges and opportunities." Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1526), 2115-2126.  https://doi.org/10.1098/rstb.2008.0311
 
+<a id="ref4"></a>[4] Grossman, G., & Krueger, A. (1995). "Economic growth and the environment." Quarterly Journal of Economics, 110(2), 353-377.https://doi.org/10.2307/2118443
 
 
 <a id="ref5"></a>[5] Cordier, M., Uehara, T., Baztan, J., Jorgensen, B., and Yan, H. (2021). Plastic pollution and economic growth: The influence of corruption and lack of education. Ecol. Econ. 182, 106930.
